@@ -13,3 +13,20 @@
 .ng-valid.ng-dirty{
     border-color:#78FA89;
 }
+
+.navContain{
+    margin-bottom: 20px;
+}
+
+.nav-ui{
+    background-color: #133351;
+    margin-top: 35px;
+}
+
+.navbar-inverse .navbar-nav > li > a{
+    color: white;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover{
+   background-color: #505A7C;
+}
